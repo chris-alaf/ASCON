@@ -1,0 +1,597 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSim
+Ealt_sbox
+Z0 w1686332708
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z4 dD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6
+Z5 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/alt_s-box.vhd
+Z6 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/alt_s-box.vhd
+l0
+L5 1
+V>R3M?VQeUZ0E<FKhRFoU<1
+!s100 MKSID<BE8mdGPY4i2`ZQI0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1698231230
+!i10b 1
+Z9 !s108 1698231230.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/alt_s-box.vhd|
+Z11 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/alt_s-box.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aalt_sbox_arch
+R1
+R2
+R3
+DEx4 work 8 alt_sbox 0 22 >R3M?VQeUZ0E<FKhRFoU<1
+!i122 0
+l14
+L10 36
+V`]0X;So5k9[:^zzM]NIQ=1
+!s100 @nF0AXaVX;cQnEUUAFT8`3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econi
+Z14 w1696604289
+R1
+R2
+R3
+!i122 1
+R4
+Z15 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/constants.vhd
+Z16 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/constants.vhd
+l0
+L5 1
+V?iVM`Djk9[JHmFjf8SPdc1
+!s100 AiD4kS6zHBQeZa]OfkMdC0
+R7
+32
+Z17 !s110 1698231231
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/constants.vhd|
+Z19 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/constants.vhd|
+!i113 1
+R12
+R13
+Aconi_arch
+R1
+R2
+R3
+DEx4 work 4 coni 0 22 ?iVM`Djk9[JHmFjf8SPdc1
+!i122 1
+l12
+L10 7
+V4?@8@fIL5DmkD@77J1c0X0
+!s100 k9j56h6IPUJW<zaPY6NHM2
+R7
+32
+R17
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Ecore
+Z20 w1696605191
+R1
+R2
+R3
+!i122 2
+R4
+Z21 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/core.vhd
+Z22 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/core.vhd
+l0
+L6 1
+VZM6jV1O2@PXz>lDVMMj3m0
+!s100 2h`CdEKmbam_<4WULQeAV2
+R7
+32
+R17
+!i10b 1
+Z23 !s108 1698231231.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/core.vhd|
+Z25 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/core.vhd|
+!i113 1
+R12
+R13
+Acore_arch
+R1
+R2
+R3
+DEx4 work 4 core 0 22 ZM6jV1O2@PXz>lDVMMj3m0
+!i122 2
+l58
+L17 90
+VVI?il@[[jW_K?bh[_BC^O0
+!s100 ?`:22mS^XGBjK8G2F[9nE0
+R7
+32
+R17
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R12
+R13
+Efsm
+Z26 w1697793759
+R2
+R3
+!i122 3
+R4
+Z27 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/fsm.vhd
+Z28 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/fsm.vhd
+l0
+L5 1
+V`LFk4ECBNd1LHH?a=0zEP3
+!s100 =2FkMDNM0S5c9d;6:Ialk2
+R7
+32
+R17
+!i10b 1
+R23
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/fsm.vhd|
+Z30 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/fsm.vhd|
+!i113 1
+R12
+R13
+Afsm_arch
+R2
+R3
+DEx4 work 3 fsm 0 22 `LFk4ECBNd1LHH?a=0zEP3
+!i122 3
+l24
+L16 370
+V`nJOn]mDz<?RCHR[80<DN0
+!s100 dGPYkYJQW2GffaQ>36QI40
+R7
+32
+R17
+!i10b 1
+R23
+R29
+R30
+!i113 1
+R12
+R13
+Elpc
+Z31 w1698047807
+Z32 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z33 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R2
+R3
+!i122 4
+R4
+Z34 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/lpc.vhd
+Z35 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/lpc.vhd
+l0
+L6 1
+VGOFOT@oh_fgbNAhzQEFz53
+!s100 Qj<ldgXV?RYF^[Q<:6h`m3
+R7
+32
+R17
+!i10b 1
+R23
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/lpc.vhd|
+Z37 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/lpc.vhd|
+!i113 1
+R12
+R13
+Artl
+R32
+R33
+R2
+R3
+DEx4 work 3 lpc 0 22 GOFOT@oh_fgbNAhzQEFz53
+!i122 4
+l78
+L17 141
+V@53g>UNbIJI<<9K00h_JQ1
+!s100 YA=WQmFjzY84JCo]K21HJ1
+R7
+32
+R17
+!i10b 1
+R23
+R36
+R37
+!i113 1
+R12
+R13
+Emux2to1
+Z38 w1673981935
+R2
+R3
+!i122 5
+R4
+Z39 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux2to1.vhd
+Z40 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux2to1.vhd
+l0
+L4 1
+V`C3cRcYm=ISL1F1<89aRF1
+!s100 iR56Fm4VMG1ZBH=XdY9I[3
+R7
+32
+Z41 !s110 1698231232
+!i10b 1
+R23
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux2to1.vhd|
+Z43 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux2to1.vhd|
+!i113 1
+R12
+R13
+Amux2to1_arch
+R2
+R3
+DEx4 work 7 mux2to1 0 22 `C3cRcYm=ISL1F1<89aRF1
+!i122 5
+l12
+L11 6
+V1FbaI`cVe7DSb2jeRHR@o0
+!s100 ?iPHQdl5W_Y7i^Wm1KbcV1
+R7
+32
+R41
+!i10b 1
+R23
+R42
+R43
+!i113 1
+R12
+R13
+Emux3to1
+Z44 w1684864147
+R2
+R3
+!i122 6
+R4
+Z45 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux3to1.vhd
+Z46 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux3to1.vhd
+l0
+L4 1
+VekQSMOSd]GBbUWKM<^WL83
+!s100 WIZc1a0G8@i7HT:J`o1^L1
+R7
+32
+R41
+!i10b 1
+Z47 !s108 1698231232.000000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux3to1.vhd|
+Z49 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux3to1.vhd|
+!i113 1
+R12
+R13
+Amux3to1_arch
+R2
+R3
+DEx4 work 7 mux3to1 0 22 ekQSMOSd]GBbUWKM<^WL83
+!i122 6
+l12
+L11 7
+VE>0`hm;nnb3i0nM4zT@H?1
+!s100 [2Yi8TW41dF:90XeI_0[71
+R7
+32
+R41
+!i10b 1
+R47
+R48
+R49
+!i113 1
+R12
+R13
+Emux4to1
+Z50 w1685731101
+R2
+R3
+!i122 7
+R4
+Z51 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux4to1.vhd
+Z52 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux4to1.vhd
+l0
+L4 1
+VDX9CHoH<1[QJk>hcZ^e7<3
+!s100 eW6YmJFj0hS;efLm3XI_[2
+R7
+32
+R41
+!i10b 1
+R47
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux4to1.vhd|
+Z54 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/mux4to1.vhd|
+!i113 1
+R12
+R13
+Amux4to1_arch
+R2
+R3
+DEx4 work 7 mux4to1 0 22 DX9CHoH<1[QJk>hcZ^e7<3
+!i122 7
+l12
+L11 8
+V4d[iKbUBSTOS<4D^UKgSF2
+!s100 @6fN^XfDao0Lh9:L[z3AH3
+R7
+32
+R41
+!i10b 1
+R47
+R53
+R54
+!i113 1
+R12
+R13
+Epc
+Z55 w1696604256
+R2
+R3
+!i122 8
+R4
+Z56 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/pc.vhd
+Z57 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/pc.vhd
+l0
+L5 1
+V2BW:l@]VTHb2demNQ4L^_0
+!s100 UZbYGk[Vcmm_N0l8l[]eB0
+R7
+32
+R41
+!i10b 1
+R47
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/pc.vhd|
+Z59 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/pc.vhd|
+!i113 1
+R12
+R13
+Apc_arch
+R2
+R3
+DEx4 work 2 pc 0 22 2BW:l@]VTHb2demNQ4L^_0
+!i122 8
+l21
+L12 15
+Vb<0PLNn57h`:z63=hNWbE0
+!s100 TT^dgGX^AcVcmb8[EYlV00
+R7
+32
+R41
+!i10b 1
+R47
+R58
+R59
+!i113 1
+R12
+R13
+Epermutation
+Z60 w1696604274
+R2
+R3
+!i122 9
+R4
+Z61 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/permutation.vhd
+Z62 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/permutation.vhd
+l0
+L5 1
+VeCn05MFY7Q4UlJ?dGWKiH1
+!s100 YdlQU6l>QbRaT5[WYTVdR1
+R7
+32
+Z63 !s110 1698231233
+!i10b 1
+Z64 !s108 1698231233.000000
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/permutation.vhd|
+Z66 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/permutation.vhd|
+!i113 1
+R12
+R13
+Apermutation_arch
+R2
+R3
+DEx4 work 11 permutation 0 22 eCn05MFY7Q4UlJ?dGWKiH1
+!i122 9
+l35
+L12 30
+V61=IRnMA<aGB[i;[C@MNU3
+!s100 7ih?iOzbnK0WOjNZjnBgJ1
+R7
+32
+R63
+!i10b 1
+R64
+R65
+R66
+!i113 1
+R12
+R13
+Epl
+Z67 w1685645252
+R1
+R2
+R3
+!i122 10
+R4
+Z68 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/pl.vhd
+Z69 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/pl.vhd
+l0
+L5 1
+VU5O2YBIHJ2c?V?CEBz:Ja0
+!s100 DCC:Kc9=6^eCFUONb<C@M0
+R7
+32
+R63
+!i10b 1
+R64
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/pl.vhd|
+Z71 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/pl.vhd|
+!i113 1
+R12
+R13
+Apl_arch
+R1
+R2
+R3
+DEx4 work 2 pl 0 22 U5O2YBIHJ2c?V?CEBz:Ja0
+!i122 10
+l13
+L11 10
+VDkc:DMWL3UFa0g2GmYkm`0
+!s100 [8PSh78l9h`hfG3KomW:h0
+R7
+32
+R63
+!i10b 1
+R64
+R70
+R71
+!i113 1
+R12
+R13
+Eps
+Z72 w1698229812
+R2
+R3
+!i122 11
+R4
+Z73 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/ps.vhd
+Z74 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/ps.vhd
+l0
+L5 1
+Vz4UDj_UEV=L@W7BIilOZC2
+!s100 TPZDneoP3=2zSg78EfP]a3
+R7
+32
+R63
+!i10b 1
+R64
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/ps.vhd|
+Z76 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/ps.vhd|
+!i113 1
+R12
+R13
+Aps_arch
+R2
+R3
+DEx4 work 2 ps 0 22 z4UDj_UEV=L@W7BIilOZC2
+!i122 11
+l21
+L11 22
+V<V@Wb]@[;Mg6_dA@^gSf60
+!s100 2`BFa0NhJ`]4LjfcCX1nB3
+R7
+32
+R63
+!i10b 1
+R64
+R75
+R76
+!i113 1
+R12
+R13
+Ereg
+Z77 w1685645259
+R2
+R3
+!i122 12
+R4
+Z78 8D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/reg.vhd
+Z79 FD:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/reg.vhd
+l0
+L5 1
+Vi?Lf0V6^`VBe8=nOVmCM23
+!s100 mC?YL5`gz`RVcho050jD23
+R7
+32
+R63
+!i10b 1
+R64
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/reg.vhd|
+Z81 !s107 D:/Dipl/asconcode/VHDL/enc-dec-hash/d2/u6/reg.vhd|
+!i113 1
+R12
+R13
+Areg_arch
+R2
+R3
+DEx4 work 3 reg 0 22 i?Lf0V6^`VBe8=nOVmCM23
+!i122 12
+l14
+L12 14
+V3?JDSSDnY7;:jA2JVQ>kg3
+!s100 M8;KNB^M69JmEe<koj]lB2
+R7
+32
+R63
+!i10b 1
+R64
+R80
+R81
+!i113 1
+R12
+R13
+Etop
+Z82 w1697796845
+R1
+R2
+R3
+!i122 14
+R4
+Z83 8top.vhd
+Z84 Ftop.vhd
+l0
+L5 1
+Veoc0z3GFSHm^8?@UFa0=W2
+!s100 aZDEOP5OSS^IhdQYAoV;60
+R7
+32
+Z85 !s110 1698231250
+!i10b 1
+Z86 !s108 1698231250.000000
+Z87 !s90 -reportprogress|300|top.vhd|
+!s107 top.vhd|
+!i113 1
+R13
+Atop_arch
+R1
+R2
+R3
+DEx4 work 3 top 0 22 eoc0z3GFSHm^8?@UFa0=W2
+!i122 14
+l55
+Z88 L17 70
+VTcBD=7Lz^]OQe635>`T`j0
+Z89 !s100 9J5]Rdg]6UlD`XeojaP8H1
+R7
+32
+R85
+!i10b 1
+R86
+R87
+Z90 !s107 top.vhd|
+!i113 1
+R13
